@@ -17,3 +17,4 @@ A screenshot of the application when opened in Default Browser (Google Chrome) c
 ![Screenshot of my Random Password Generator](./assets/images/javascript-password-generator-screenshot.png)
 
 A link to the deployed application can be found below:
+https://jmabie94.github.io/12-22-22-javascript-password-generator/
